@@ -1,12 +1,16 @@
-# resume
+# Resume
 
 <br>
 
-## 활동
+## Profile
 
 <br>
 
-## 수상 및 규모
+## Activity
+
+<br>
+
+## Award 및 규모
 
 <br>
 
