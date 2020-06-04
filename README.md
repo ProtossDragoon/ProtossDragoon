@@ -10,18 +10,18 @@
 
 <br>
 
-## Award 및 규모
+## Awards
 
 <br>
 
-## 참가에 의의
-
-<br>
-
-## 기타 취미
+## Spirit of Olympics (참가에 의의)
 
 <br>
 
 # Repository & Organization
+
+<br>
+
+# Hobbies
 
 <br>
