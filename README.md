@@ -18,10 +18,10 @@
 
 <br>
 
-# Repository & Organization
+## Repository & Organization
 
 <br>
 
-# Hobbies
+## Hobbies
 
 <br>
