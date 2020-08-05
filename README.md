@@ -1,5 +1,7 @@
 # Resume
 
+- main 에 올리는 방법은?
+
 <br>
 
 ## Profile
