@@ -1,7 +1,3 @@
-# Resume
-
-<br>
-
 ## Profile
 
 <br>
