@@ -1,7 +1,5 @@
 # Resume
 
-- main 에 올리는 방법은?
-
 <br>
 
 ## Profile
@@ -16,7 +14,7 @@
 
 <br>
 
-## Spirit of Olympics (참가에 의의)
+## Spirit of Olympics
 
 <br>
 
