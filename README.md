@@ -18,7 +18,7 @@
 
 ## Project
 
-2020.08 / [Tensorflow lite for Microcontroller]() / [Original Repo](https://github.com/yunho0130/tensorflow-lite) / [Trailer 영상]() / [Demo 영상]()
+2020.08 / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller]() / [Original Repo](https://github.com/yunho0130/tensorflow-lite) / [Trailer 영상]() / [Demo 영상]()
 
 <br>
 
