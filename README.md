@@ -18,7 +18,7 @@
 
 ## Project
 
-[Tensorflow lite for Microcontroller]() / [Original Repo]() / [Trailer 영상]() / [Demo 영상]()
+2020.08 / [Tensorflow lite for Microcontroller]() / [Original Repo]() / [Trailer 영상]() / [Demo 영상]()
 
 <br>
 
