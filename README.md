@@ -8,8 +8,6 @@
 
 <br>
 
-[temp](https://github.com/yunho0130/tensorflow-lite)
-
 이건 뭐냐!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ProtossDragoon&title_color=fceecc&text_color=ffffff&show_icons=true&icon_color=cdafcf&bg_color=45,7e6396,5f4b72)
@@ -18,7 +16,7 @@
 
 ## Project
 
-2020.08 / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller]() / [Original Repo](https://github.com/yunho0130/tensorflow-lite) / [Trailer 영상]() / [Demo 영상]()
+2020.08 / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller Project]() / [Original Repo](https://github.com/yunho0130/tensorflow-lite) / [Trailer 영상]() / [Demo 영상]()
 
 <br>
 
