@@ -8,7 +8,7 @@
 
 <br>
 
-이건 뭐냐!
+오오... 다들 README에 신기한 것들을 많이 달고 다니는군.
 
 <br>
 
@@ -27,4 +27,5 @@
 
 ## Interest
 
+Self-Driving Car / Tiny ML / Edge Machine Learning <br>
 NAVER LABS 자율주행 & 로보틱스 / 현대자동차 자율주행 / 배달의민족 배달로봇사업 / Tesla 자율주행 / SpaceX Edge Machine Learning
