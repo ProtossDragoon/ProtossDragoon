@@ -23,9 +23,9 @@
 
 ## Project
 
-2020.08 / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller 한글 Project & 한글 튜토리얼]() / [Original Repo](https://github.com/yunho0130/tensorflow-lite) / [Trailer 영상]() / [Demo 영상]() <br>
-2020.06 / 세종대학교 수업 : Rider Localization With Raspberry Pi & Google CORAL / [Original Repo](https://github.com/ProtossDragoon/self-driving-PM) / [발표자료]()
-2019.09 /
+2020.08 / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller 한글 Project & 한글 튜토리얼]() / [Pull Request Repo](https://github.com/yunho0130/tensorflow-lite) / [Trailer 영상]() / [Demo 영상]() <br>
+2020.05 / 세종대학교 수업 (임베디드시스템, CE 4-1) : Rider Localization With Raspberry Pi & Google CORAL / [Repo](https://github.com/ProtossDragoon/self-driving-PM) / [발표자료]() <br>
+2019.09 / 양재AI Summer School 실무자과정 3기 : MapleStory Object Detection with Darknet / [Repo](https://github.com/ProtossDragoon/MAiEye) / [발표자료]() <br>
 
 <br>
 
