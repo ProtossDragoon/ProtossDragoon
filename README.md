@@ -23,7 +23,9 @@
 
 ## Project
 
-2020.08 / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller Project]() / [Original Repo](https://github.com/yunho0130/tensorflow-lite) / [Trailer 영상]() / [Demo 영상]()
+2020.08 / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller 한글 Project & 한글 튜토리얼]() / [Original Repo](https://github.com/yunho0130/tensorflow-lite) / [Trailer 영상]() / [Demo 영상]() <br>
+2020.06 / 세종대학교 수업 : Rider Localization With Raspberry Pi & Google CORAL / [Original Repo](https://github.com/ProtossDragoon/self-driving-PM) / [발표자료]()
+2019.09 /
 
 <br>
 
