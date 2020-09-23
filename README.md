@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/ProtossDragoon)](http://git-awards.com/users/ProtossDragoon)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/janghoo_lee/)](https://www.instagram.com/janghoo_lee/) 
-[![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://cafe.naver.com/starfansclub)](https://cafe.naver.com/starfansclub)
+[![Naver Badge](https://img.shields.io/badge/-NAVER Cafe-green?style=flat-square&link=https://cafe.naver.com/starfansclub)](https://cafe.naver.com/starfansclub)
 
 
 ## Profile
