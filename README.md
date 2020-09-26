@@ -1,7 +1,4 @@
 ## Profile
-
-아
-
 오오... 다들 README에 신기한 것들을 많이 달고 다니는군.
 
 ## Activity
