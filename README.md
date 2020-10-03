@@ -20,7 +20,7 @@
 
 ## Interest
 
-Self-Driving Car / Tiny ML / Edge Machine Learning <br>
+Self-Driving Car / Tiny ML / Edge Machine Learning : Deep Learning & Machine Learning 은 **현실의 문제를 풀 때 가치있다!**<br>
 NAVER LABS 자율주행 & 로보틱스 / 현대자동차 자율주행 / 배달의민족 배달로봇사업 / Tesla 자율주행 / SpaceX Edge Machine Learning
 
 
