@@ -6,7 +6,7 @@
 - Startup : 헬로콕 Co-Founder
 - Startup : 스르릉 Co-Founder
 - SAI : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
-- SW 정보 공유 Community
+- 학내외 SW Community Founder
 
 <br>
 
