@@ -3,7 +3,10 @@
 사진은 지금의 너가 아니야! -안정연, 17 C.E-
 
 ## Activity
-이거 언제쓰지
+- Startup : 헬로콕 Co-Founder
+- Startup : 스르릉 Co-Founder
+- SAI : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
+- SW 정보 공유 Community
 
 <br>
 
