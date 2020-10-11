@@ -12,11 +12,11 @@
 <br>
 
 <details>
-  <summary> <b> [As A Product Manager / Operator / Service Manager]  </b> <i>(:point_left: Click)</i> </summary>
+  <summary> <b> [As A Product Manager / Operator / Service Manager]  </b> <i>(:point_left: 작성중)</i> </summary>
 </details>
 
 <details>
-  <summary> <b> [As A Developer / AI Engineer]  </b> <i>(:point_left: Click)</i> </summary>
+  <summary> <b> [As A Developer / AI Engineer]  </b> <i>(:point_left: 작성중)</i> </summary>
 </details>
 
 <br>
