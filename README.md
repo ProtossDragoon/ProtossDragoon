@@ -9,8 +9,15 @@
 - SAI : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
 - 학내외 SW Community Founder
 
-> As A Product Manager / Operator / Service Manager
-> As A Developer / AI Engineer
+<br>
+
+<details>
+  <summary> <b> [As A Product Manager / Operator / Service Manager]  </b> <i>(:point_left: Click)</i> </summary>
+</details>
+
+<details>
+  <summary> <b> [As A Developer / AI Engineer]  </b> <i>(:point_left: Click)</i> </summary>
+</details>
 
 <br>
 
