@@ -29,6 +29,7 @@
 2020.05 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final)](https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final) / 세종대 수업 (디지털시스템, CE 2-1) : 디지털회로로 만드는 타짜 / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1DigitalSystem/Assignment-Final/%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) <br>
 2019.09 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/MAiEye)](https://github.com/ProtossDragoon/MAiEye) / 양재AI R&D Center Summer School 실무자과정 3기 : MapleStory Object Detection with Darknet / [발표자료]() <br>
 2019.06 / 세종대 6회 해커톤 : Collabo-LAB 실시간 이용자 현황파악 및 사용추이분석 / Repo / 발표자료 <br>
+2019.06 /  / 세종대 수업 (데이터분석개론, DS 2-1) : Machine Learning From Disaster, Assignment3 / 제출자료 <br>
 
 <br>
 
