@@ -4,8 +4,6 @@
 
 ## Activity
 
-- Startup : 헬로콕 Co-Founder
-- Startup : 스르릉 Co-Founder
 - SAI : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
 - 학내외 SW Community Founder
 
@@ -13,6 +11,8 @@
 
 <details>
   <summary> <b> [As A Product Manager / Operator / Service Manager]  </b> <i>(:point_left: 작성중)</i> </summary>
+  - Startup : 헬로콕 Co-Founder
+  - Startup : 스르릉 Co-Founder
 </details>
 
 <details>
