@@ -4,20 +4,23 @@
 
 ## Activity
 
-- SAI : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
-- 학내외 SW Community Founder
-
 <br>
 
 <details>
-  <summary> <b> [As A Product Manager / Operator / Service Manager]  </b> <i>(:point_left: 작성중)</i> </summary>
-  - Startup : 헬로콕 Co-Founder
-  - Startup : 스르릉 Co-Founder
+  <summary> <b> [As A Product Manager / Operator / Service Manager]  </b> </summary>
+  - 2020.06~ 칵테일 kit smart-order 서비스 hellocock : Co-Founder, Marketing, Product Manager 로 재직 중
+  - 2020.03~ 퍼스널모빌리티 After Market 플랫폼 스르릉 : Co-Founder, Product Manager, Certificate Operating Officer 로 재직 중
 </details>
 
 <details>
-  <summary> <b> [As A Developer / AI Engineer]  </b> <i>(:point_left: 작성중)</i> </summary>
+  <summary> <b> [As A Developer / AI Engineer]  </b> </summary>
+  - 2020.11~ 전동킥보드 공유 서비스 deer corporation : Autonomous Scooter Development 로 재직 중
 </details>
+
+<br>
+
+- SAI : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
+- 학내외 SW Community Founder
 
 <br>
 
