@@ -35,15 +35,12 @@
   - [2020/11~] 전동킥보드 공유 서비스 **deer** : Autonomous Scooter Development 로 재직 중
   - [2020/06] Award : Sejong University 6th Hackathon Silver Award
   - [2019/12] Award : Sejong University 2019 Coding Challenge 4th Award
+  - [2019/06~] Circle **SAI** : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
   - [2019/09] Certification : Yangjae AI Hub & KAIST - 3rd AI Summer Camp
   - [2019/07] Award : Sejong University 5th Hackathon Grand Award
+  - [2019/03] 학내외 SW Community Founder  
   
 </details>
-
-<br>
-
-- SAI : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
-- 학내외 SW Community Founder
 
 <br>
 
