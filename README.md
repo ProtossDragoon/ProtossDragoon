@@ -8,8 +8,10 @@
 
 <details>
   <summary> <b> [As A Product Manager / Operator / Service Manager]  </b> </summary>
+  
   - 2020.06~ 칵테일 kit smart-order 서비스 hellocock : Co-Founder, Marketing, Product Manager 로 재직 중
   - 2020.03~ 퍼스널모빌리티 After Market 플랫폼 스르릉 : Co-Founder, Product Manager, Certificate Operating Officer 로 재직 중
+  
 </details>
 
 <details>
