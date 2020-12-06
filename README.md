@@ -11,9 +11,18 @@
   
   <br>
   
-  - 2020.06~ 칵테일 kit smart-order 서비스 **hellocock** : Co-Founder, Marketing, Product Manager 로 재직 중
-  - 2020.03~ 퍼스널모빌리티 After Market 플랫폼 **스르릉** : Co-Founder, Product Manager, Certificate Operating Officer 로 재직 중
-  
+  - [2020.06~] 칵테일 kit smart-order 서비스 **hellocock** : Co-Founder, Marketing, Product Manager 로 재직 중
+  - [2020.03~] 퍼스널모빌리티 After Market 플랫폼 **스르릉** : Co-Founder, Product Manager, Certificate Operating Officer 로 재직 중
+  - [2020/09] Award : Sejong University Start-up Pitching Day 2020-2 Excellence award
+  - [2020/09] Award : Sejong University Start-up Idea Competition 2020-2 Excellence award
+  - [2020/02] Award : Sejong University Start-up Camp 2020 Grand award
+  - [2020/02] Award : Sejong University Start-up Pitching Day 2020 Grand award
+  - [2020/06] Award : Sejong University Start-up Mentoring Day 2020 Excellence award
+  - [2020/08] Award : Sejong University Start-up Circle Business Performance Competition 2020-1 Excellence award
+  - [2020/08] Award : Campus Town Competition 2020-1 Excellence award
+  - [2019/02] Certification : KeyongGi Do 4th OZ Startup Campus in Pangyo
+  - [2018/10] Award : Sejong University ICT Idea Festival Silver Award
+
 </details>
 
 <details>
@@ -21,7 +30,11 @@
   
   <br>
   
-  - 2020.11~ 전동킥보드 공유 서비스 **deer** : Autonomous Scooter Development 로 재직 중
+  - [2020/11~] 전동킥보드 공유 서비스 **deer** : Autonomous Scooter Development 로 재직 중
+  - [2020/06] Award : Sejong University 6th Hackathon Silver Award
+  - [2019/12] Award : Sejong University 2019 Coding Challenge 4th Award
+  - [2019/09] Certification : Yangjae AI Hub & KAIST - 3rd AI Summer Camp
+  - [2019/07] Award : Sejong University 5th Hackathon Grand Award
   
 </details>
 
