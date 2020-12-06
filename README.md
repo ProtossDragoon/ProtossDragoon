@@ -35,6 +35,7 @@
   <br>
   
   - [2020/11~] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 재직 중
+  - [2020/10] AI Circle SAI [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7)
   - [2020/06] Award : Sejong University 6th Hackathon Silver Award
   - [2019/12] Award : Sejong University 2019 Coding Challenge 4th Award
   - [2019/06~] Circle **SAI** : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder
