@@ -17,7 +17,7 @@
     <summary> <b> [2020/03~] 퍼스널모빌리티 After Market 플랫폼 스르릉 : Co-Founder, Product Manager, Certificate Operating Officer 로 재직 중, 예창패 중 </b> </summary>
   
   
-    [!스르릉_영업홍보자료](sll0.png)
+    ![스르릉_영업홍보자료](sll0.png)
     
   </details>
   
