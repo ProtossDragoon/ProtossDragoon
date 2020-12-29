@@ -12,7 +12,9 @@
   <br>
   
   - [2020/06~] 칵테일 kit smart-order 서비스 **hellocock** : Co-Founder, Marketing, Product Manager 로 재직 중, 예창패 중
-  - [2020/03~] 퍼스널모빌리티 After Market 플랫폼 **스르릉** : Co-Founder, Product Manager, Certificate Operating Officer 로 재직 중, 예창패 중
+  <details>
+    <summary> <b> - [2020/03~] 퍼스널모빌리티 After Market 플랫폼 **스르릉** : Co-Founder, Product Manager, Certificate Operating Officer 로 재직 중, 예창패 중 </b> </summary>
+  </details>
   - [2020/06] Certification : **스르릉**팀, 전주정보문화진흥원 주관 실전창업교육 수료
   - [2020/09] Award : Sejong University Start-up Pitching Day 2020-2 Excellence award
   - [2020/09] Award : Sejong University Start-up Idea Competition 2020-2 Excellence award
