@@ -23,7 +23,7 @@
   - [2020/08] Award : Campus Town Competition 2020-1 Excellence award
   - [2019/02] Certification : KeyongGi Do 4th OZ Startup Campus in Pangyo
   - [2018/10] Award : Sejong University ICT Idea Festival Silver Award
-  - [2009/09~] Online Cafe Manager
+  - [2009/09~] Online Cafe (naver) Manager (Founder)
 
 </details>
 
