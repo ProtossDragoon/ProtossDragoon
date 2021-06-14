@@ -34,6 +34,7 @@
   
   <br>
   
+  - [2021/06] [TensorFlow repository contribution (small bugfix)](https://github.com/tensorflow/tensorflow/pull/50015) : 이 코드를 받아준다구요..?!
   - [2020/11~] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 재직 중
   - [2020/10] Circle **SAI** : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
   - [2020/06] Award : Sejong University 6th Hackathon Silver Award
