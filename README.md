@@ -11,8 +11,8 @@
   
   <br>
   
-  - [2020/06~2021/03] 칵테일 kit smart-order 서비스 **hellocock** : Co-Founder, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료
-  - [2020/03~2021/03] 퍼스널모빌리티 After Market 플랫폼 **스르릉** : Co-Founder, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료
+  - [2020/06~2021/03] 칵테일 kit smart-order 서비스 **hellocock** : (Co)Founder, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료
+  - [2020/03~2021/03] 퍼스널모빌리티 After Market 플랫폼 **스르릉** : (Co)Founder, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료
   - [2020/06] Certification : **스르릉**팀, 전주정보문화진흥원 주관 실전창업교육 수료
   - [2020/09] Award : Sejong University Start-up Pitching Day 2020-2 Excellence award
   - [2020/09] Award : Sejong University Start-up Idea Competition 2020-2 Excellence award
@@ -39,7 +39,7 @@
   - [2020/10] Circle **SAI** : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
   - [2020/06] Award : Sejong University 6th Hackathon Silver Award
   - [2019/12] Award : Sejong University 2019 Coding Challenge 4th Award
-  - [2019/06~] Circle **SAI** : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 Co-Founder, [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
+  - [2019/06~] Circle **SAI** : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 (Co)Founder, [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
   - [2019/09] Certification : Yangjae AI Hub & KAIST - 3rd AI Summer Camp
   - [2019/07] Award : Sejong University 5th Hackathon Grand Award
   - [2019/03~] Community : 학내외 SW Community Founder
