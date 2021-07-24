@@ -62,11 +62,13 @@
 
 ## Interest
 
-Self-Driving Mobility / Computer Vision / Tiny ML / Edge Machine Learning : AI Engineering 은  **현실의 문제를 풀 때 가치있다!**<br>
-NAVER LABS 자율주행 & 로보틱스 / 현대자동차 자율주행 / 배달의민족 배달로봇사업 / Tesla 자율주행 / SpaceX Edge Machine Learning
+SDV / CV / Edge ML <br>
+AI Engineering 은  **현실의 문제를 풀 때 가치있다!** <br>
+TF2, Keras, python3, C
 
+<br>
 
-<div align=center>
+<div align=left>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janghoo-lee-25212a1a0/)](https://www.linkedin.com/in/janghoo-lee-25212a1a0/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwkdgn3@gmail.com)](mailto:dlwkdgn3@gmail.com) 
