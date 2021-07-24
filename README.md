@@ -23,7 +23,8 @@
   - [2020/08] Award : Campus Town Competition 2020-1 Excellence award
   - [2019/02] Certification : KeyongGi Do 4th OZ Startup Campus in Pangyo
   - [2018/10] Award : Sejong University ICT Idea Festival Silver Award
-  - [2009/09~] Online Cafe (naver) Manager (Founder)
+  - [2009/09~] [![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://cafe.naver.com/starfansclub)](https://cafe.naver.com/starfansclub) Online Cafe Manager (Founder) 
+
 
 </details>
 
@@ -74,6 +75,5 @@ TF2, Keras, python3, C
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwkdgn3@gmail.com)](mailto:dlwkdgn3@gmail.com) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/janghoo_lee/)](https://www.instagram.com/janghoo_lee/) 
-[![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://cafe.naver.com/starfansclub)](https://cafe.naver.com/starfansclub)
 
 </div>
