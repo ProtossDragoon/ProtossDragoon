@@ -42,7 +42,7 @@
   - [2020/10] Circle **SAI** : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
   - [2020/06] Award : Sejong University 6th Hackathon Silver Award
   - [2019/12] Award : Sejong University 2019 Coding Challenge 4th Award
-  - [2019/06~] [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber) Circle **SAI** : Sejong Artificial Intelligence, 세종대학교 인공지능 동아리 (Co)Founder, [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
+  - [2019/06~] [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber) Circle **SAI** : Sejong AI, 세종대학교 인공지능 중앙동아리 (Co)Founder, [Welcome Kit!](https://janghoo.notion.site/SAI-14dde9dd953946f98b9ba0917a217d4d), [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
   - [2019/09] Certification : Yangjae AI Hub & KAIST - 3rd AI Summer Camp
   - [2019/07] Award : Sejong University 5th Hackathon Grand Award
   - [2019/03~] Community : 학내외 SW Community Founder
