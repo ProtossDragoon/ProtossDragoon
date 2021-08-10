@@ -34,10 +34,11 @@
   <summary> <b> [As A Developer / AI Engineer]  </b> </summary>
   
   <br>
-  
+
+  - [2021/08~] [OpenUp & 정보통신산업진흥원 - Open Source Contribution Academy](https://www.oss.kr/contributhon_notice/show/37063a08-31e7-46da-bf6e-a09903d40439), Team 딥러닝(Kears) 실용예제 구축하기
   - [2021/06] [TensorFlow repository contribution (small bugfix)](https://github.com/tensorflow/tensorflow/pull/50015) : 이 코드를 받아준다구요..?!
   - [2020/11~] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 재직 중
-  - [2020/11] Certification : OpenUp & 정보통신산업진흥원 - Open Source Contributhon, Team TensorFlow Lite for Microcontroller
+  - [2020/05] Certification : [OpenUp & 정보통신산업진흥원 - Open Source Contributhon](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), Team TensorFlow Lite for Microcontroller
   - [2020/10] Circle **SAI** : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
   - [2020/06] Award : Sejong University 6th Hackathon Silver Award
   - [2019/12] Award : Sejong University 2019 Coding Challenge 4th Award
