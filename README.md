@@ -7,7 +7,7 @@
 <br>
 
 <details>
-  <summary> <b> [As A Product Manager / Operator / Service Manager]  </b> </summary>
+  <summary> <b> 문과의 삶 </b> </summary>
   
   <br>
   
@@ -31,7 +31,7 @@
 <br>
 
 <details>
-  <summary> <b> [As A Developer / AI Engineer]  </b> </summary>
+  <summary> <b> 이과의 삶 </b> </summary>
   
   <br>
 
