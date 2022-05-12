@@ -35,14 +35,14 @@
   
   <br>
 
-  - [2021/08~] [OpenUp & 정보통신산업진흥원 - Open Source Contribution Academy](https://www.oss.kr/contributhon_notice/show/37063a08-31e7-46da-bf6e-a09903d40439), Team 딥러닝(Kears) 실용예제 구축하기
+  - [2021/08] [OpenUp & 정보통신산업진흥원 - Open Source Contribution Academy](https://www.oss.kr/contributhon_notice/show/37063a08-31e7-46da-bf6e-a09903d40439), Team 딥러닝(Kears) 실용예제 구축하기
   - [2021/06] [TensorFlow repository contribution (small bugfix)](https://github.com/tensorflow/tensorflow/pull/50015) : 이 코드를 받아준다구요..?!
-  - [2020/11~] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 재직 중
+  - [2020/11~2022/04] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 재직 중
   - [2020/05] Certification : [OpenUp & 정보통신산업진흥원 - Open Source Contributhon](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), Team TensorFlow Lite for Microcontroller
   - [2020/10] Circle **SAI** : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
   - [2020/06] Award : Sejong University 6th Hackathon Silver Award
   - [2019/12] Award : Sejong University 2019 Coding Challenge 4th Award
-  - [2019/06~] [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber) Circle **SAI** : Sejong AI, 세종대학교 인공지능 중앙동아리 (Co)Founder, [Welcome Kit!](https://janghoo.notion.site/SAI-14dde9dd953946f98b9ba0917a217d4d), [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
+  - [2019/06~2021/03] [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber) Circle **SAI** : Sejong AI, 세종대학교 인공지능 중앙동아리 (Co)Founder, [Welcome Kit!](https://janghoo.notion.site/SAI-14dde9dd953946f98b9ba0917a217d4d), [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
   - [2019/09] Certification : Yangjae AI Hub & KAIST - 3rd AI Summer Camp
   - [2019/07] Award : Sejong University 5th Hackathon Grand Award
   - [2019/03~] Community : 학내외 SW Community Founder
@@ -66,8 +66,9 @@
 ## Interest
 
 SDV / CV / Edge ML <br>
+TF2, Keras, python3, C <br>
 AI Engineering 은  **현실의 문제를 풀 때 가치있다!** <br>
-TF2, Keras, python3, C
+제가 어떤 생각을 하고 살아가는 사람인지는 [블로그](https://www.davincijang.space?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)와 [이력서](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에 담아 두었습니다.
 
 <br>
 
