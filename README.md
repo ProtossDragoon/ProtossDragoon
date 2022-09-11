@@ -2,6 +2,7 @@
 
 **생각들**
 
+- [그거 또 외우시려구요?](https://www.davincijang.space/idea/long/9-2-2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
 - [먼 미래에 결국 end-to-end 딥러닝 기반 자율주행이 승리하는 이유와 항구의 선적 컨테이너](https://www.davincijang.space/idea/long/aa2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
 - [미술, 철학, 수학, 기술을 관통하는 추상이란 개념과 우리가 가져야 하는 올바른 태도](https://www.davincijang.space/idea/long/9-2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
 - [카메라 기반 자율주행 데이터수집의 미래](https://www.davincijang.space/idea/long/deer/aa5-2-1-1/2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
