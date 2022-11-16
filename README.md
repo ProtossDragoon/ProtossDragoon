@@ -37,6 +37,7 @@
   <summary> <b> 이과의 삶 </b> </summary>
   </br>
   
+  - [2022/11] [MMOCR Bugfix Contribution](https://github.com/open-mmlab/mmocr/pull/1540)
   - [2021/08] [OpenUp & 정보통신산업진흥원 - Open Source Contribution Academy](https://www.oss.kr/contributhon_notice/show/37063a08-31e7-46da-bf6e-a09903d40439), Team 딥러닝(Kears) 실용예제 구축하기
   - [2021/06] [TensorFlow repository contribution (small bugfix)](https://github.com/tensorflow/tensorflow/pull/50015) : 이 코드를 받아준다구요..?!
   - [2020/11~2022/04] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 근무
