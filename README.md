@@ -64,9 +64,7 @@
 
 ## Interest
 
-SDV / CV / Edge ML <br>
-TF2, Keras, python3, C <br>
-AI Engineering 은  **현실의 문제를 풀 때 가치있다!** <br>
+**현실의 문제를 풀 수 있는** Ai Engineering & Computer Vision <br>
 
 <br>
 
@@ -75,10 +73,8 @@ AI Engineering 은  **현실의 문제를 풀 때 가치있다!** <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janghoo-lee-25212a1a0/)](https://www.linkedin.com/in/janghoo-lee-25212a1a0/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwkdgn3@gmail.com)](mailto:dlwkdgn3@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/janghoo_lee/)](https://www.instagram.com/janghoo_lee/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FProtossDragoon%2Fhit-counter&count_bg=%2300FFDF&title_bg=%23EDFBA6&icon=&icon_color=%23FFFFFF&title=2018+%2F+980707&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FProtossDragoon%2Fhit-counter&count_bg=%2300FFDF&title_bg=%23EDFBA6&icon=&icon_color=%23FFFFFF&title=view&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
 
-
-오오... 다들 README에 신기한 것들을 많이 달고 다니는군. <br>
-사진은 지금의 너가 아니야! -안정연, 17 C.E-
+사진은 지금의 너가 아니야! -안정연(학교 선배)
