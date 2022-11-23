@@ -3,10 +3,10 @@
 **생각들**
 
 - [그거 또 외우시려구요?](https://www.davincijang.space/idea/long/9-2-2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-- [먼 미래에 결국 end-to-end 딥러닝 기반 자율주행이 승리하는 이유와 항구의 선적 컨테이너](https://www.davincijang.space/idea/long/aa2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-- [미술, 철학, 수학, 기술을 관통하는 추상이란 개념과 우리가 가져야 하는 올바른 태도](https://www.davincijang.space/idea/long/9-2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-- [카메라 기반 자율주행 데이터수집의 미래](https://www.davincijang.space/idea/long/deer/aa5-2-1-1/2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-- [많은 개발자들이 외치는 '인류에 도움이 되겠다' 는 가치가 정말 정당할까?](https://www.davincijang.space/idea/long/3--1/2/1?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
+- [미래에 결국 end-to-end 딥러닝 기반 자율주행이 승리할 것 같은 이유](https://www.davincijang.space/idea/long/aa2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
+- [어디에나 있는 추상이라는 개념](https://www.davincijang.space/idea/long/9-2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
+- [자율주행을 위한 카메라 기반의 real-world 데이터수집법은 3D 비전 기술이 완성하지 않을까](https://www.davincijang.space/idea/long/deer/aa5-2-1-1/2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
+- ['선한 영향력을 행사하는 삶' 이라는 가치가 절대적인 정당성을 부여받을 수 있는가?](https://www.davincijang.space/idea/long/3--1/2/1?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
 
 제가 어떤 생각을 하고 살아가는 사람인지는 [블로그](https://www.davincijang.space?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)와 [이력서](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에 담아 두었습니다.
 
