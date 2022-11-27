@@ -36,8 +36,9 @@
 <details>
   <summary> <b> 이과의 삶 </b> </summary>
   </br>
-  
+
   - [2022/11] [open-mmlab/mmocr repository contribution (small bugfix)](https://github.com/open-mmlab/mmocr/pull/1540)
+  - [2022/10] [데이터야놀자 2022 행사 발표, '엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw)
   - [2021/08] [OpenUp & 정보통신산업진흥원 - Open Source Contribution Academy](https://www.oss.kr/contributhon_notice/show/37063a08-31e7-46da-bf6e-a09903d40439), Team 딥러닝(Kears) 실용예제 구축하기
   - [2021/06] [tensorflow/tensorFlow repository contribution (small bugfix)](https://github.com/tensorflow/tensorflow/pull/50015) : 이 코드를 받아준다구요..?!
   - [2020/11~2022/04] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 근무
@@ -54,6 +55,7 @@
 
 ## Project
 
+2022.10 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/PlankHyundong)](https://github.com/ProtossDragoon/PlankHyundong) / 세종대학교 인공지능 중앙동아리 SAI: 엎드려뻗친 현동이를 피규어로 만들어버렸다 / [발표영상](https://www.youtube.com/watch?v=s7k_cZi7hvw) / [발표자료](https://drive.google.com/file/d/1XrWcYmuNC0rZVPC8ese5gtJTMicKKRcs/edit) <br>
 2020.08 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130/tensorflow-lite)](https://github.com/yunho0130/tensorflow-lite) / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller 한글 Project & Tutorial](https://www.oss.kr/notice/show/8acb5bca-b7df-426f-9dc8-4315d4737734)
  / [Trailer 영상](https://youtu.be/qLDKXKqDy6M) / [Demo 영상](https://youtu.be/dtxNoMcyVEA) <br>
 2020.05 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/self-driving-PM)](https://github.com/ProtossDragoon/self-driving-PM) / 세종대 수업 (임베디드시스템, CE 4-1) : Mobility Rider Localization With Raspberry Pi & Google CORAL / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1EmbeddedSystem/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20PPT.pdf) <br>
