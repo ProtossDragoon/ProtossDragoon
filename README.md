@@ -40,7 +40,7 @@
   - [2022/11] open-mmlab/mmocr repository contribution: [Small bugfix](https://github.com/open-mmlab/mmocr/pull/1540), [Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567)
   - [2022/10] [데이터야놀자 2022 행사 발표, '엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw)
   - [2021/08] [OpenUp & 정보통신산업진흥원 - Open Source Contribution Academy](https://www.oss.kr/contributhon_notice/show/37063a08-31e7-46da-bf6e-a09903d40439), Team 딥러닝(Kears) 실용예제 구축하기
-  - [2021/06] [tensorflow/tensorFlow repository contribution (small bugfix)](https://github.com/tensorflow/tensorflow/pull/50015) : 이 코드를 받아준다구요..?!
+  - [2021/06] tensorflow/tensorflow repository contribution: [Small bugfix](https://github.com/tensorflow/tensorflow/pull/50015)
   - [2020/11~2022/04] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 근무
   - [2020/05] Certification : [OpenUp & 정보통신산업진흥원 - Open Source Contributhon](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), Team TensorFlow Lite for Microcontroller
   - [2020/10] Circle **SAI** : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
