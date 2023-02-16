@@ -1,6 +1,4 @@
-## Profile
-
-**생각들**
+## Value
 
 - [그거 또 외우시려구요?](https://www.davincijang.space/idea/long/9-2-2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
 - [미래에 결국 end-to-end 딥러닝 기반 자율주행이 승리할 것 같은 이유](https://www.davincijang.space/idea/long/aa2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
@@ -8,7 +6,8 @@
 - [자율주행을 위한 카메라 기반의 real-world 데이터수집법은 3D 비전 기술이 완성하지 않을까](https://www.davincijang.space/idea/long/deer/aa5-2-1-1/2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
 - ['선한 영향력을 행사하는 삶' 이라는 가치가 절대적인 정당성을 부여받을 수 있는가?](https://www.davincijang.space/idea/long/3--1/2/1?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
 
-제가 어떤 생각을 하고 살아가는 사람인지는 [블로그](https://www.davincijang.space?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)와 [이력서](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에 담아 두었습니다.
+제가 어떤 생각을 하고 살아가는 사람인지는 [블로그](https://www.davincijang.space?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)와 [이력서](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에 담아 두었습니다.<br>
+**현실의 문제를 풀고 가치를 만들 수 있는** Ai Engineering & Computer Vision 에 관심이 많습니다.
 
 ## Activity
 
@@ -53,22 +52,23 @@
   
 </details>
 
-## Project
+<details>
 
-2022.10 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/PlankHyundong)](https://github.com/ProtossDragoon/PlankHyundong) / 세종대학교 인공지능 중앙동아리 SAI: 엎드려뻗친 현동이를 피규어로 만들어버렸다 / [발표영상](https://www.youtube.com/watch?v=s7k_cZi7hvw) / [발표자료](https://drive.google.com/file/d/1XrWcYmuNC0rZVPC8ese5gtJTMicKKRcs/edit) <br>
-2020.08 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130/tensorflow-lite)](https://github.com/yunho0130/tensorflow-lite) / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller 한글 Project & Tutorial](https://www.oss.kr/notice/show/8acb5bca-b7df-426f-9dc8-4315d4737734)
+  <summary> <b> 프로젝트 </b> </summary>
+  </br>
+  
+  - 2022.10 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/PlankHyundong)](https://github.com/ProtossDragoon/PlankHyundong) / 세종대학교 인공지능 중앙동아리 SAI: 엎드려뻗친 현동이를 피규어로 만들어버렸다 / [발표영상](https://www.youtube.com/watch?v=s7k_cZi7hvw) / [발표자료](https://drive.google.com/file/d/1XrWcYmuNC0rZVPC8ese5gtJTMicKKRcs/edit) <br>
+  - 2020.08 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130/tensorflow-lite)](https://github.com/yunho0130/tensorflow-lite) / 오픈소스 컨트리뷰톤 : [Tensorflow lite for Microcontroller 한글 Project & Tutorial](https://www.oss.kr/notice/show/8acb5bca-b7df-426f-9dc8-4315d4737734)
  / [Trailer 영상](https://youtu.be/qLDKXKqDy6M) / [Demo 영상](https://youtu.be/dtxNoMcyVEA) <br>
-2020.05 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/self-driving-PM)](https://github.com/ProtossDragoon/self-driving-PM) / 세종대 수업 (임베디드시스템, CE 4-1) : Mobility Rider Localization With Raspberry Pi & Google CORAL / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1EmbeddedSystem/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20PPT.pdf) <br>
-2020.05 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final)](https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final) / 세종대 수업 (디지털시스템, CE 2-1) : 디지털회로로 만드는 타짜 / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1DigitalSystem/Assignment-Final/%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) <br>
-2019.09 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/MAiEye)](https://github.com/ProtossDragoon/MAiEye) / 양재AI R&D Center Summer School 실무자과정 3기 : MapleStory Object Detection with Darknet / [발표자료]() <br>
-2019.06 / 세종대 6회 해커톤 : YOLOv3 & LSTM 기반의 Collabo-LAB 실시간 이용자 현황파악 및 사용추이분석 시스템 / Repo / 발표자료 <br>
-2019.06 / 세종대 수업 (데이터분석개론, DS 2-1) : Machine Learning From Disaster, Final Assignment / [제출자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/2-1BasicOfDataAnalysis/3rd%20Assignment/IDA_A3_%EC%9D%B4%EC%9E%A5%ED%9B%84_18011573.ipynb) <br>
+  - 2020.05 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/self-driving-PM)](https://github.com/ProtossDragoon/self-driving-PM) / 세종대 수업 (임베디드시스템, CE 4-1) : Mobility Rider Localization With Raspberry Pi & Google CORAL / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1EmbeddedSystem/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20PPT.pdf) <br>
+  - 2020.05 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final)](https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final) / 세종대 수업 (디지털시스템, CE 2-1) : 디지털회로로 만드는 타짜 / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1DigitalSystem/Assignment-Final/%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) <br>
+  - 2019.09 / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/MAiEye)](https://github.com/ProtossDragoon/MAiEye) / 양재AI R&D Center Summer School 실무자과정 3기 : MapleStory Object Detection with Darknet / [발표자료]() <br>
+  - 2019.06 / 세종대 6회 해커톤 : YOLOv3 & LSTM 기반의 Collabo-LAB 실시간 이용자 현황파악 및 사용추이분석 시스템 <br>
+  - 2019.06 / 세종대 수업 (데이터분석개론, DS 2-1) : Machine Learning From Disaster, Final Assignment / [제출자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/2-1BasicOfDataAnalysis/3rd%20Assignment/IDA_A3_%EC%9D%B4%EC%9E%A5%ED%9B%84_18011573.ipynb) <br>
 
-## Interest
+</details>
 
-**현실의 문제를 풀 수 있는** Ai Engineering & Computer Vision <br>
-
-<br>
+[이 페이지](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에서 위 내용들을 사진이나 이야기와 함께 정리된 글 더 재미있게 볼 수 있습니다.
 
 <div align=left>
 
@@ -78,5 +78,3 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FProtossDragoon%2Fhit-counter&count_bg=%2300FFDF&title_bg=%23EDFBA6&icon=&icon_color=%23FFFFFF&title=view&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
-
-사진은 지금의 너가 아니야! -안정연(학교 선배)
