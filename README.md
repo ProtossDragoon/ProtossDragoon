@@ -68,7 +68,7 @@
 
 </details>
 
-[이 페이지](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에서 위 내용들을 사진이나 이야기와 함께 정리된 글 더 재미있게 볼 수 있습니다.
+[이 페이지](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에서 위 내용들을 사진, 이야기, 정리된 글과 함께 더 재미있게 볼 수 있습니다.
 
 <div align=left>
 
