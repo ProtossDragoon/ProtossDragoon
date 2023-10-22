@@ -1,11 +1,5 @@
 ## Value
 
-- [그거 또 외우시려구요?](https://www.davincijang.space/idea/long/9-2-2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-- [미래에 결국 end-to-end 딥러닝 기반 자율주행이 승리할 것 같은 이유](https://www.davincijang.space/idea/long/aa2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-- [어디에나 있는 추상이라는 개념](https://www.davincijang.space/idea/long/9-2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-- [자율주행을 위한 카메라 기반의 real-world 데이터수집법은 3D 비전 기술이 완성하지 않을까](https://www.davincijang.space/idea/long/deer/aa5-2-1-1/2?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-- ['선한 영향력을 행사하는 삶' 이라는 가치가 절대적인 정당성을 부여받을 수 있는가?](https://www.davincijang.space/idea/long/3--1/2/1?utm_source=github&utm_medium=readmewritings&utm_campaign=personalbranding)
-
 제가 어떤 생각을 하고 살아가는 사람인지는 [블로그](https://www.davincijang.space?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)와 [이력서](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에 담아 두었습니다.<br>
 **현실의 문제를 풀고 가치를 만들 수 있는** Ai Engineering & Computer Vision 에 관심이 많습니다.
 
@@ -36,10 +30,10 @@
   <summary> <b> 이과의 삶 </b> </summary>
   </br>
 
-  - [2022/11] open-mmlab/mmocr repository contribution: [#1540 Bugfix: Small](https://github.com/open-mmlab/mmocr/pull/1540), [#1567 Feat: Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567)
+  - [2022/11] [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) repository contribution: [#1540 Bugfix: Small](https://github.com/open-mmlab/mmocr/pull/1540), [#1567 Feat: Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567)
   - [2022/10] [데이터야놀자 2022 행사 발표, '엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw)
   - [2021/08] OpenUp & 정보통신산업진흥원 - Open Source Contribution Academy, Team 딥러닝(Kears) 실용예제 구축하기
-  - [2021/06] tensorflow/tensorflow repository contribution: [#50015 Bugfix: Small](https://github.com/tensorflow/tensorflow/pull/50015)
+  - [2021/06] [tensorflow/**tensorflow**](https://github.com/tensorflow/tensorflow) repository contribution: [#50015 Bugfix: Small](https://github.com/tensorflow/tensorflow/pull/50015)
   - [2020/11~2022/04] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 근무
   - [2020/05] [OpenUp & 정보통신산업진흥원 - Open Source Contributhon](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), Team TensorFlow Lite for Microcontroller
   - [2020/10] Circle **SAI** : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
