@@ -9,12 +9,12 @@
   <summary> <b> 문과의 삶 </b> </summary>
   </br>
 
-  - [2023] **교육**, EPITA Paris (프랑스 파리 그랑제꼴) 교환학생
+  - [2023] **교육**, EPITA Paris, France, Exchange student program
   - [2020] **교육**, 전주정보문화진흥원 주관 실전창업교육 수료
-  - [2020] **수상**, 세종대학교/캠퍼스타운 주관 피칭, 아이디어경진, 창업경진 등 수상
-  - [2020/03~2021/03] **창업**, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료, 퍼스널모빌리티 After Market 플랫폼 '스르릉', (Co)Founder
-  - [2020/06~2021/03] **창업**, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료, 칵테일 kit smart-order 서비스 'hellocock', (Co)Founder
-  - [2019] **교육**, KeyongGi Do 4th OZ Startup Campus in Pangyo
+  - [2020] **수상**, 세종대학교/캠퍼스타운 주관 피칭, 아이디어경진, 창업경진 등
+  - [20~21] **창업**, 중벤부 예비창업패키지 수료, 퍼스널모빌리티 애프터마켓 플랫폼 '스르릉', (Co)Founder
+  - [20~21] **창업**, 중벤부 예비창업패키지 수료, 칵테일키트 스마트오더서비스 '헬로콕', (Co)Founder
+  - [2019] **교육**, 판교 스타트업캠퍼스 4기
   - [2009~] **창업**, [![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://cafe.naver.com/starfansclub)](https://cafe.naver.com/starfansclub) 카페 설립 (Founder)
 
 </details>
@@ -32,7 +32,7 @@
   - [2020/05] **오픈소스**, [OpenUp & 정보통신산업진흥원 - Open Source Contributhon](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), Team TensorFlow Lite for Microcontroller
   - [2020/10] **동아리**, SAI : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
   - [2019/06~2021/03] [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber) Circle **SAI** : Sejong AI, 세종대학교 인공지능 중앙동아리 (Co)Founder, [Welcome Kit!](https://janghoo.notion.site/SAI-14dde9dd953946f98b9ba0917a217d4d), [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
-  - [2019/09] **교육**, 양재 R&D Hub & KAIST AI Summer Camp 3기 수료
+  - [2019/09] **교육**, 양재 RnD 허브 & KAIST, AI summer camp 3기
   - [2019/07] **수상**, 1위(53개팀중), 세종대학교 5회 SW/AI 해커톤
   - [2019/03~] **커뮤니티**, 학내외 SW Community 설립
   
