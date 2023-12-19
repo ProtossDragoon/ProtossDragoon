@@ -8,21 +8,14 @@
 <details>
   <summary> <b> 문과의 삶 </b> </summary>
   </br>
-  
-  - [2020/06~2021/03] 칵테일 kit smart-order 서비스 **hellocock** : (Co)Founder, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료
-  - [2020/03~2021/03] 퍼스널모빌리티 After Market 플랫폼 **스르릉** : (Co)Founder, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료
-  - [2020/06] Certification : **스르릉**팀, 전주정보문화진흥원 주관 실전창업교육 수료
-  - [2020/09] Award : Sejong University Start-up Pitching Day 2020-2 Excellence award
-  - [2020/09] Award : Sejong University Start-up Idea Competition 2020-2 Excellence award
-  - [2020/02] Award : Sejong University Start-up Camp 2020 Grand award
-  - [2020/02] Award : Sejong University Start-up Pitching Day 2020 Grand award
-  - [2020/06] Award : Sejong University Start-up Mentoring Day 2020 Excellence award
-  - [2020/08] Award : Sejong University Start-up Circle Business Performance Competition 2020-1 Excellence award
-  - [2020/08] Award : Campus Town Competition 2020-1 Excellence award
-  - [2019/02] Certification : KeyongGi Do 4th OZ Startup Campus in Pangyo
-  - [2018/10] Award : Sejong University ICT Idea Festival Silver Award
-  - [2009/09~] [![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://cafe.naver.com/starfansclub)](https://cafe.naver.com/starfansclub) Online Cafe Manager (Founder) 
 
+  - [2023] **교육**, EPITA Paris (프랑스 파리 그랑제꼴) 교환학생
+  - [2020] **교육**, 전주정보문화진흥원 주관 실전창업교육 수료
+  - [2020] **수상**, 세종대학교/캠퍼스타운 주관 피칭, 아이디어경진, 창업경진 등 수상
+  - [2020/03~2021/03] **창업**, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료, 퍼스널모빌리티 After Market 플랫폼 '스르릉', (Co)Founder
+  - [2020/06~2021/03] **창업**, 중소벤처기업부 창업진흥원 예비창업패키지 지원사업 수료, 칵테일 kit smart-order 서비스 'hellocock', (Co)Founder
+  - [2019] **교육**, KeyongGi Do 4th OZ Startup Campus in Pangyo
+  - [2009~] **창업**, [![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://cafe.naver.com/starfansclub)](https://cafe.naver.com/starfansclub) 카페 설립 (Founder)
 
 </details>
 
@@ -30,19 +23,18 @@
   <summary> <b> 이과의 삶 </b> </summary>
   </br>
 
-  - [2022/11] [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) repository contribution: [#1540 Bugfix: Small](https://github.com/open-mmlab/mmocr/pull/1540), [#1567 Feat: Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567)
-  - [2022/10] [데이터야놀자 2022 행사 발표, '엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw)
-  - [2021/08] OpenUp & 정보통신산업진흥원 - Open Source Contribution Academy, Team 딥러닝(Kears) 실용예제 구축하기
-  - [2021/06] [tensorflow/**tensorflow**](https://github.com/tensorflow/tensorflow) repository contribution: [#50015 Bugfix: Small](https://github.com/tensorflow/tensorflow/pull/50015)
-  - [2020/11~2022/04] 전동킥보드 공유 서비스 **deer** : Robotics Engineer (Autonomous Scooter Development) 로 근무
-  - [2020/05] [OpenUp & 정보통신산업진흥원 - Open Source Contributhon](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), Team TensorFlow Lite for Microcontroller
-  - [2020/10] Circle **SAI** : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
-  - [2020/06] Award : Sejong University 6th Hackathon Silver Award
-  - [2019/12] Award : Sejong University 2019 Coding Challenge 4th Award
+  - [2023/11] **수상**, 환경부 장관상(50개팀중), 전국 대학생 물환경 정책/기술 공모전
+  - [2022/07~2023/07] **저서**, O'Reilly [MLOps 실전 가이드](https://www.yes24.com/Product/Goods/119859717) 도서번역, [코드수정](https://github.com/ProtossDragoon/practical-mlops)
+  - [2022/11] **오픈소스**, [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) 저장소 컨트리뷰션: [#1540 Bugfix: Small](https://github.com/open-mmlab/mmocr/pull/1540), [#1567 Feat: Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567)
+  - [2022/10] **발표**, [데이터야놀자 2022 행사 발표, '엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw)
+  - [2021/06] **오픈소스**, [tensorflow/**tensorflow**](https://github.com/tensorflow/tensorflow) 저장소 컨트리뷰션: [#50015 Bugfix: Small](https://github.com/tensorflow/tensorflow/pull/50015)
+  - [2020/11~2022/04] **전동킥보드 공유 서비스 디어(deer)**, Robotics Engineer (자율주행 킥보드 개발) 로 근무
+  - [2020/05] **오픈소스**, [OpenUp & 정보통신산업진흥원 - Open Source Contributhon](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), Team TensorFlow Lite for Microcontroller
+  - [2020/10] **동아리**, SAI : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
   - [2019/06~2021/03] [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber) Circle **SAI** : Sejong AI, 세종대학교 인공지능 중앙동아리 (Co)Founder, [Welcome Kit!](https://janghoo.notion.site/SAI-14dde9dd953946f98b9ba0917a217d4d), [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
-  - [2019/09] Certification : Yangjae AI Hub & KAIST - 3rd AI Summer Camp
-  - [2019/07] Award : Sejong University 5th Hackathon Grand Award
-  - [2019/03~] Community : 학내외 SW Community Founder
+  - [2019/09] **교육**, 양재 R&D Hub & KAIST AI Summer Camp 3기 수료
+  - [2019/07] **수상**, 1위(53개팀중), 세종대학교 5회 SW/AI 해커톤
+  - [2019/03~] **커뮤니티**, 학내외 SW Community 설립
   
 </details>
 
