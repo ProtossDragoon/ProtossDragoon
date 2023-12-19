@@ -24,17 +24,18 @@
   </br>
 
   - [2023/11] **수상**, 환경부 장관상(50개팀중), 전국 대학생 물환경 정책/기술 공모전
-  - [2022/07~2023/07] **저서**, O'Reilly [MLOps 실전 가이드](https://www.yes24.com/Product/Goods/119859717) 도서번역, [코드수정](https://github.com/ProtossDragoon/practical-mlops)
+  - [22/07~23/07] **저서**, O'Reilly [MLOps 실전 가이드](https://www.yes24.com/Product/Goods/119859717) 도서번역, [코드수정](https://github.com/ProtossDragoon/practical-mlops)
   - [2022/11] **오픈소스**, [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) 저장소 컨트리뷰션: [#1540 Bugfix: Small](https://github.com/open-mmlab/mmocr/pull/1540), [#1567 Feat: Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567)
+  - [22/08~22/12] **AI MSP 플랫폼 서비스 코그넷나인**, 데이터 사이언티스트로 근무
   - [2022/10] **발표**, [데이터야놀자 2022 행사 발표, '엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw)
   - [2021/06] **오픈소스**, [tensorflow/**tensorflow**](https://github.com/tensorflow/tensorflow) 저장소 컨트리뷰션: [#50015 Bugfix: Small](https://github.com/tensorflow/tensorflow/pull/50015)
-  - [2020/11~2022/04] **전동킥보드 공유 서비스 디어(deer)**, Robotics Engineer (자율주행 킥보드 개발) 로 근무
-  - [2020/05] **오픈소스**, [OpenUp & 정보통신산업진흥원 - Open Source Contributhon](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), Team TensorFlow Lite for Microcontroller
-  - [2020/10] **동아리**, SAI : Sejong Artificial Intelligence, [basic study](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [Lead](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), 
-  - [2019/06~2021/03] [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber) Circle **SAI** : Sejong AI, 세종대학교 인공지능 중앙동아리 (Co)Founder, [Welcome Kit!](https://janghoo.notion.site/SAI-14dde9dd953946f98b9ba0917a217d4d), [Manager page](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
+  - [20/11~22/04] **전동킥보드 공유 서비스 디어(deer)**, Robotics Engineer (자율주행 킥보드 개발) 로 근무
+  - [2020/05] **오픈소스**, [OpenUp & 정보통신산업진흥원 - 오픈소스 컨트리뷰톤](https://www.oss.kr/notice/show/89192428-ebf7-4de9-93a7-35caf76a1f4b), 마이크로컨트롤러를 위한 TFLite 한글프로젝트 만들기
+  - [2020/10] **동아리**, SAI:세종대학교 인공지능 중앙동아리, TF/Keras/딥러닝 기초교육프로그램 리드 ([깃허브](https://github.com/sju-coml/SAI-2020-Team-I/projects/2), [유튜브](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7))
+  - [2019/06~2021/03] **동아리**, SAI:세종대학교 인공지능 중앙동아리 설립, (Co)Founder, ([홈페이지](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [후배님들께 쓰는 편지](https://janghoo.notion.site/SAI-14dde9dd953946f98b9ba0917a217d4d))
   - [2019/09] **교육**, 양재 RnD 허브 & KAIST, AI summer camp 3기
   - [2019/07] **수상**, 1위(53개팀중), 세종대학교 5회 SW/AI 해커톤
-  - [2019/03~] **커뮤니티**, 학내외 SW Community 설립
+  - [2019/03~] **커뮤니티**, [SW 커뮤니티](https://open.kakao.com/o/gCJTdJib) 설립
   
 </details>
 
@@ -42,14 +43,14 @@
 
   <summary> <b> 프로젝트 </b> </summary>
   </br>
-  
-  - [2022/10] / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/PlankHyundong)](https://github.com/ProtossDragoon/PlankHyundong) / SAI 프로젝트팀: 엎드려뻗친 현동이를 피규어로 만들어버렸다 / [발표영상](https://www.youtube.com/watch?v=s7k_cZi7hvw) / [발표자료](https://drive.google.com/file/d/1XrWcYmuNC0rZVPC8ese5gtJTMicKKRcs/edit) <br>
-  - [2020/08] / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130/tensorflow-lite)](https://github.com/yunho0130/tensorflow-lite) / 오픈소스 컨트리뷰톤팀: [Tensorflow lite for Microcontroller 한글 Project & Tutorial](https://www.oss.kr/notice/show/8acb5bca-b7df-426f-9dc8-4315d4737734)
+
+  - [2022/10] / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/PlankHyundong)](https://github.com/ProtossDragoon/PlankHyundong) / SAI 프로젝트팀: 엎드려뻗친 현동이를 피규어로 만들기 / [발표영상](https://www.youtube.com/watch?v=s7k_cZi7hvw) / [발표자료](https://drive.google.com/file/d/1XrWcYmuNC0rZVPC8ese5gtJTMicKKRcs/edit) <br>
+  - [2020/08] / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130/tensorflow-lite)](https://github.com/yunho0130/tensorflow-lite) / 오픈소스 컨트리뷰톤팀: [마이크로컨트롤러를 위한 TFLite 한글프로젝트 만들기](https://www.oss.kr/notice/show/8acb5bca-b7df-426f-9dc8-4315d4737734)
  / [Trailer 영상](https://youtu.be/qLDKXKqDy6M) / [Demo 영상](https://youtu.be/dtxNoMcyVEA) <br>
-  - [2020/05] / lecture 최종프로젝트: Mobility Rider Localization With Raspberry Pi & Google CORAL / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1EmbeddedSystem/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20PPT.pdf) <br>
+  - [2020/05] / lecture 최종프로젝트: 엣지 디바이스(RPI, CORAL)를 이용한 모빌리티 탑승자 실시간 Localization / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1EmbeddedSystem/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20PPT.pdf) <br>
   - [2020/05] / [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final)](https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final) / lecture 최종프로젝트: 디지털회로로 만드는 타짜 / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1DigitalSystem/Assignment-Final/%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) <br>
   - [2019/06] / 해커톤: YOLOv3 & LSTM 기반의 Collabo-LAB 실시간 이용자 현황파악 및 사용추이분석 시스템 <br>
-  - [2019/06] / lecture 최종프로젝트: Machine Learning From Disaster, Final Assignment / [제출자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/2-1BasicOfDataAnalysis/3rd%20Assignment/IDA_A3_%EC%9D%B4%EC%9E%A5%ED%9B%84_18011573.ipynb) <br>
+  - [2019/06] / lecture 최종프로젝트: '근거있는' 데이터 분석 (타이타닉 호 데이터) / [제출자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/2-1BasicOfDataAnalysis/3rd%20Assignment/IDA_A3_%EC%9D%B4%EC%9E%A5%ED%9B%84_18011573.ipynb) <br>
 
 </details>
 
