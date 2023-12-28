@@ -23,7 +23,7 @@
   <summary> <b> 이과의 삶 </b> </summary>
   </br>
 
-  - [2023/11] **수상**, 환경부 장관상(50개팀중), 전국 대학생 물환경 정책/기술 공모전
+  - [2023/11] **수상**, 환경부 장관상(60개+-팀중), 전국 대학생 물환경 정책/기술 공모전
   - [22/07~23/07] **저서**, O'Reilly [MLOps 실전 가이드](https://www.yes24.com/Product/Goods/119859717) 도서번역, [코드수정](https://github.com/ProtossDragoon/practical-mlops)
   - [2022/11] **오픈소스**, [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) 저장소 컨트리뷰션: [#1540 Bugfix: Small](https://github.com/open-mmlab/mmocr/pull/1540), [#1567 Feat: Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567)
   - [22/08~22/12] **AI MSP 플랫폼 서비스 코그넷나인**, 데이터 사이언티스트로 근무
