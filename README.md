@@ -1,10 +1,3 @@
-## Value
-
-제가 어떤 생각을 하고 살아가는 사람인지는 [블로그](https://www.davincijang.space?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)와 [이력서](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에 담아 두었습니다.<br>
-**현실의 문제를 풀고 가치를 만들 수 있는** Ai Engineering & Computer Vision 에 관심이 많습니다.
-
-## Activity
-
 <details>
   <summary> <b> 문과의 삶 </b> </summary>
   </br>
@@ -54,7 +47,9 @@
 
 </details>
 
-[이 페이지](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에서 위 내용들을 사진, 이야기, 정리된 글과 함께 더 재미있게 볼 수 있습니다.
+**현실의 문제를 풀고 가치를 만들 수 있는** Ai Engineering & Computer Vision 에 관심이 많습니다. <br>
+제가 어떤 생각을 하고 살아가는 사람인지는 [블로그](https://www.davincijang.space?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)와 [이력서](https://docs.google.com/document/d/1rPhDDNcHNe7FPes5bHNX-FANfA5bHQfzuyiZPNsUSR0/edit?usp=sharing)에 담아 두었습니다.<br>
+위 내용들을 [이 페이지](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=myreadme&utm_campaign=personalbranding)에서 사진, 이야기, 정리된 글과 함께 더 재미있게 볼 수 있습니다.
 
 <div align=left>
 
