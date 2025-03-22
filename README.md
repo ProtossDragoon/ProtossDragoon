@@ -21,10 +21,10 @@
   - **MLOps 기술을 수전에 적용**해 보자는 제안으로, 전국 대학생 물환경 정책/기술 공모전에서 환경부 장관상(60개+-팀중) (23)
   - 오라일리(O'Reilly) **[MLOps 실전 가이드](https://www.yes24.com/Product/Goods/119859717)** 번역 및 [코드 수정](https://github.com/ProtossDragoon/practical-mlops) (23)
   - **AI MSP 플랫폼 서비스 코그넷나인**, 데이터 사이언티스트로 근무 (22)
-    - 과정에서의 [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) [#1540 Bugfix: Small](https://github.com/open-mmlab/mmocr/pull/1540), [#1567 Feat: Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567) (22)
+    - 과정에서 [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) 저장소에 [기능 추가](https://github.com/open-mmlab/mmocr/pull/1567) 및 [작은 버그 개선](https://github.com/open-mmlab/mmocr/pull/1540) (22)
   - **전동킥보드 공유 서비스 디어코퍼레이션(deer)** 에서 자율주행 킥보드 개발 도전! (21-22)
-    - 과정에서의 [tensorflow/**tensorflow**](https://github.com/tensorflow/tensorflow) 저장소 컨트리뷰션: [#50015 Bugfix: Small](https://github.com/tensorflow/tensorflow/pull/50015) (21)
-    - 과정에서의 고민을 담은 ['엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw) 데이터야놀자 2022 발표 / [Github 저장소](https://github.com/ProtossDragoon/PlankHyundong) (22)
+    - 과정에서의 고민(3D Reconstruction)을 담은 ['엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw) 데이터야놀자 2022 발표 / [Github 저장소](https://github.com/ProtossDragoon/PlankHyundong) (22)
+    - 운 좋게 [작은 버그 개선으로](https://github.com/tensorflow/tensorflow/pull/50015) [tensorflow/**tensorflow**](https://github.com/tensorflow/tensorflow) 저장소 기여 (21)
   - 작지만 재미있는 프로젝트들
     - [마이크로컨트롤러를 위한 TFLite 한글프로젝트 만들기](https://www.oss.kr/notice/show/8acb5bca-b7df-426f-9dc8-4315d4737734)
  / [Trailer 영상](https://youtu.be/qLDKXKqDy6M) / [Demo 영상](https://youtu.be/dtxNoMcyVEA) / [Github 저장소](https://github.com/yunho0130/tensorflow-lite) *(20)* <br>
