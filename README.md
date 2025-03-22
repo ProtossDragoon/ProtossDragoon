@@ -23,11 +23,11 @@
   - **AI MSP 플랫폼 서비스 코그넷나인**, 데이터 사이언티스트로 근무 (22)
     - 과정에서 [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) 저장소에 [기능 추가](https://github.com/open-mmlab/mmocr/pull/1567) 및 [작은 버그 개선](https://github.com/open-mmlab/mmocr/pull/1540) (22)
   - **전동킥보드 공유 서비스 디어코퍼레이션(deer)** 에서 자율주행 킥보드 개발 도전! (21-22)
-    - 과정에서의 고민(3D Reconstruction)을 담은 ['엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw) 데이터야놀자 2022 발표 / [Github 저장소](https://github.com/ProtossDragoon/PlankHyundong) (22)
+    - 과정에서의 고민(3D Reconstruction)을 담아 ['엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw) 데이터야놀자 발표 / [Github](https://github.com/ProtossDragoon/PlankHyundong) (22)
     - 운 좋게 [작은 버그 개선으로](https://github.com/tensorflow/tensorflow/pull/50015) [tensorflow/**tensorflow**](https://github.com/tensorflow/tensorflow) 저장소 기여 (21)
   - 작지만 재미있는 프로젝트들
     - [마이크로컨트롤러를 위한 TFLite 한글프로젝트 만들기](https://www.oss.kr/notice/show/8acb5bca-b7df-426f-9dc8-4315d4737734)
- / [Trailer 영상](https://youtu.be/qLDKXKqDy6M) / [Demo 영상](https://youtu.be/dtxNoMcyVEA) / [Github 저장소](https://github.com/yunho0130/tensorflow-lite) *(20)* <br>
+ / [Trailer 영상](https://youtu.be/qLDKXKqDy6M) / [Demo 영상](https://youtu.be/dtxNoMcyVEA) / [Github](https://github.com/yunho0130/tensorflow-lite) *(20)* <br>
     - 엣지 디바이스(RPI, CORAL)와 Weak Supervision을 이용한 모빌리티 탑승자 실시간 Localization PoC / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1EmbeddedSystem/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20PPT.pdf) *(20)* <br>
     - 디지털시스템 수업과제, "디지털회로로 만드는 타짜" / [발표자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/3-1DigitalSystem/Assignment-Final/%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) / [Src](https://github.com/ProtossDragoon/SJU-Subject/tree/master/3-1DigitalSystem/Assignment-Final) *(20)*
     - 데이터분석개론 수업과제, 첫 데이터 분석 / [제출자료](https://github.com/ProtossDragoon/SJU-Subject/blob/master/2-1BasicOfDataAnalysis/3rd%20Assignment/IDA_A3_%EC%9D%B4%EC%9E%A5%ED%9B%84_18011573.ipynb) (19) <br>
