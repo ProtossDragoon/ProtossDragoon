@@ -24,7 +24,7 @@
     - 과정에서의 [open-mmlab/**mmocr**](https://github.com/open-mmlab/mmocr) [#1540 Bugfix: Small](https://github.com/open-mmlab/mmocr/pull/1540), [#1567 Feat: Support to vis Korean](https://github.com/open-mmlab/mmocr/pull/1567) (22)
   - **전동킥보드 공유 서비스 디어코퍼레이션(deer)** 에서 자율주행 킥보드 개발 도전! (21-22)
     - 과정에서의 [tensorflow/**tensorflow**](https://github.com/tensorflow/tensorflow) 저장소 컨트리뷰션: [#50015 Bugfix: Small](https://github.com/tensorflow/tensorflow/pull/50015) (21)
-    - 과정에서의 고민을 담은 [데이터야놀자 2022 행사 발표, '엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw) 발표 / [Github 저장소](https://github.com/ProtossDragoon/PlankHyundong) (22)
+    - 과정에서의 고민을 담은 ['엎드려뻗친 현동이를 피규어로 만들어버렸다'](https://www.youtube.com/watch?v=s7k_cZi7hvw) 데이터야놀자 2022 발표 / [Github 저장소](https://github.com/ProtossDragoon/PlankHyundong) (22)
   - 작지만 재미있는 프로젝트들
     - [마이크로컨트롤러를 위한 TFLite 한글프로젝트 만들기](https://www.oss.kr/notice/show/8acb5bca-b7df-426f-9dc8-4315d4737734)
  / [Trailer 영상](https://youtu.be/qLDKXKqDy6M) / [Demo 영상](https://youtu.be/dtxNoMcyVEA) / [Github 저장소](https://github.com/yunho0130/tensorflow-lite) *(20)* <br>
